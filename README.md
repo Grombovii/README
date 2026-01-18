@@ -1,6 +1,6 @@
 Hi there! My name is Ella :3
-- 19
+- 20
 - June 29th
-- She/They
+- She/Her
 - Trans 🏳️‍⚧️
-- HTML, CSS
+- HTML, Batch, Powershell, CMD, Cisco IOS
